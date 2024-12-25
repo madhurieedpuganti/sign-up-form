@@ -1,0 +1,138 @@
+h1 {
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+
+h2 {
+    color: blue;
+    margin: 5px 0px;
+}
+
+p {
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.Personal-info-heading-block{
+    display: flex;
+    gap: 10px;
+    align-items: center;
+    margin: 10px 0px;
+    
+}
+
+
+.gender-radio-block {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+
+.personal-parent-details-block {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    justify-content: space-between;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    
+}
+
+.first>input {
+    width: 200px;
+    padding: 3px 0px;
+    margin-top: 10px;
+    background-color: #f1f1f1;
+    border: 1px solid;
+    border-radius: 3px;
+}
+
+.serial-no-block{
+    width:25px;
+    height:25px;
+    background-color: chartreuse;
+    border-radius:50%;
+}
+
+.country-dropdown {
+    background-color: #f1f1f1;
+    width: 203.2px;
+    height: 25.2px;
+    padding: 3px 0px;
+    margin-top: 5px;
+    border-radius:3px ;
+    border: 1px solid;
+
+}
+
+.Dob-range-block {
+
+    width: 203.2px;
+    display: flex;
+    align-items: center;
+    gap: 130px;
+    justify-content: space-between;
+    margin-top:20px;
+    
+
+}
+
+.Dob-size-block{
+    margin-top: 5px;
+    height: 25.2;
+    
+
+}
+
+.password-repass-block {
+    display: flex;
+    align-items: start;
+    gap: 20px;
+    justify-content: space-between;
+
+}
+
+.textarea-block{
+    display: flex;
+    justify-content: end;
+    width: 440px;
+    height: 60px;
+    background-color: #f1f1f1;
+}
+
+.button{
+    display: flex;
+    justify-content: end;
+}
+
+
+form{
+    border: 2px solid;
+    width: 450px;
+    padding: 20px 50px;
+    margin: 0px auto;
+}
+
+
+
+.buttoncolor {
+    background-color: aqua;
+    width:180px;
+    height: 25px;
+
+}
+
+.span-color{
+    color: red;
+}
+
+.checkbox-span-color{
+    color: aquamarine;
+}
+
+.company-pet-block{
+    display: flex;
+    gap: 37px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
